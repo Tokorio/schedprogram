@@ -1,0 +1,224 @@
+[
+    {
+      "id": 1,
+      "name": "Michael Scott",
+      "role": "Regional Manager",
+      "shifts": ["1", "2", "3"],
+      "hours": {
+        "Monday": 8,
+        "Tuesday": 8,
+        "Wednesday": 8,
+        "Thursday": 8,
+        "Friday": 8
+      }
+    },
+    {
+      "id": 2,
+      "name": "Jim Halpert",
+      "role": "Sales",
+      "shifts": ["1", "2", "3"],
+      "hours": {
+        "Monday": 8,
+        "Tuesday": 8,
+        "Wednesday": 8,
+        "Thursday": 8,
+        "Friday": 8
+      }
+    },
+    {
+      "id": 3,
+      "name": "Pam Halpert",
+      "role": "Sales",
+      "shifts": ["1", "2", "3"],
+      "hours": {
+        "Monday": 8,
+        "Tuesday": 8,
+        "Wednesday": 8,
+        "Thursday": 8,
+        "Friday": 8
+      }
+    },
+    {
+      "id": 4,
+      "name": "Dwight Schrute",
+      "role": "Sales",
+      "shifts": ["1", "2", "3"],
+      "hours": {
+        "Monday": 8,
+        "Tuesday": 8,
+        "Wednesday": 8,
+        "Thursday": 8,
+        "Friday": 8
+      }
+    },
+    {
+      "id": 5,
+      "name": "Andy Bernard",
+      "role": "Sales",
+      "shifts": ["1", "2", "3"],
+      "hours": {
+        "Monday": 8,
+        "Tuesday": 8,
+        "Wednesday": 8,
+        "Thursday": 8,
+        "Friday": 8
+      }
+    },
+    {
+      "id": 6,
+      "name": "Angela Martin",
+      "role": "Accounting",
+      "shifts": ["1", "2", "3"],
+      "hours": {
+        "Monday": 8,
+        "Tuesday": 8,
+        "Wednesday": 8,
+        "Thursday": 8,
+        "Friday": 8
+      }
+    },
+    {
+      "id": 7,
+      "name": "Erin Hannon",
+      "role": "Reception",
+      "shifts": ["1", "2", "3"],
+      "hours": {
+        "Monday": 8,
+        "Tuesday": 8,
+        "Wednesday": 8,
+        "Thursday": 8,
+        "Friday": 8
+      }
+    },
+    {
+      "id": 8,
+      "name": "Stanley Hudson",
+      "role": "Sales",
+      "shifts": ["1", "2", "3"],
+      "hours": {
+        "Monday": 8,
+        "Tuesday": 8,
+        "Wednesday": 8,
+        "Thursday": 8,
+        "Friday": 8
+      }
+    },
+    {
+      "id": 9,
+      "name": "Phyllis Vance",
+      "role": "Sales",
+      "shifts": ["1", "2", "3"],
+      "hours": {
+        "Monday": 8,
+        "Tuesday": 8,
+        "Wednesday": 8,
+        "Thursday": 8,
+        "Friday": 8
+      }
+    },
+    {
+      "id": 10,
+      "name": "Darryl Philbin",
+      "role": "Warehouse",
+      "shifts": ["1", "2", "3"],
+      "hours": {
+        "Monday": 8,
+        "Tuesday": 8,
+        "Wednesday": 8,
+        "Thursday": 8,
+        "Friday": 8
+      }
+    },
+    {
+      "id": 11,
+      "name": "Kelly Kapoor",
+      "role": "Customer Service",
+      "shifts": ["1", "2", "3"],
+      "hours": {
+        "Monday": 8,
+        "Tuesday": 8,
+        "Wednesday": 8,
+        "Thursday": 8,
+        "Friday": 8
+      }
+    },
+    {
+      "id": 12,
+      "name": "Ryan Howard",
+      "role": "Sales",
+      "shifts": ["1", "2", "3"],
+      "hours": {
+        "Monday": 8,
+        "Tuesday": 8,
+        "Wednesday": 8,
+        "Thursday": 8,
+        "Friday": 8
+      }
+    },
+    {
+      "id": 13,
+      "name": "Oscar Martinez",
+      "role": "Accounting",
+      "shifts": ["1", "2", "3"],
+      "hours": {
+        "Monday": 8,
+        "Tuesday": 8,
+        "Wednesday": 8,
+        "Thursday": 8,
+        "Friday": 8
+      }
+    },
+    {
+      "id": 14,
+      "name": "Kevin Malone",
+      "role": "Accounting",
+      "shifts": ["1", "2", "3"],
+      "hours": {
+        "Monday": 8,
+        "Tuesday": 8,
+        "Wednesday": 8,
+        "Thursday": 8,
+        "Friday": 8
+      }
+    },
+    {
+      "id": 15,
+      "name": "Creed Bratton",
+      "role": "Quality Assurance",
+      "shifts": ["1", "2", "3"],
+      "hours": {
+        "Monday": 8,
+        "Tuesday": 8,
+        "Wednesday": 8,
+        "Thursday": 8,
+        "Friday": 8
+      }
+    },
+    {
+      "id": 16,
+      "name": "Meredith Palmer",
+      "role": "Supplier Relations",
+      "shifts": ["1", "2", "3"],
+      "hours": {
+        "Monday": 8,
+        "Tuesday": 8,
+        "Wednesday": 8,
+        "Thursday": 8,
+        "Friday": 8
+      }
+    },
+    {
+      "id": 17,
+      "name": "Toby Flenderson",
+      "role": "Human Resources",
+      "shifts": ["1", "2", "3"],
+      "hours": {
+        "Monday": 8,
+        "Tuesday": 8,
+        "Wednesday": 8,
+        "Thursday": 8,
+        "Friday": 8
+      }
+    }
+  ]
+  

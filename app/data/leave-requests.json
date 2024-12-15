@@ -1,0 +1,27 @@
+[
+    {
+      "id": 4,
+      "employee": "Dwight Schrute",
+      "leaveLength": "2 days",
+      "startDate": "2024-12-18",
+      "endDate": "2024-12-19",
+      "status": "pending"
+    },
+    {
+      "id": 13,
+      "employee": "Oscar Martinez",
+      "leaveLength": "3 days",
+      "startDate": "2024-12-22",
+      "endDate": "2024-12-24",
+      "status": "pending"
+    },
+    {
+      "id": 17,
+      "employee": "Toby Flenderson",
+      "leaveLength": "1 day",
+      "startDate": "2024-12-15",
+      "endDate": "2024-12-15",
+      "status": "pending"
+    }
+  ]
+  
